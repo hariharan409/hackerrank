@@ -14,6 +14,7 @@
 //     return minDistance;
 // }
 
+
 const minAbsDistance = (arr) => {
     // Step 1: Sort the array
     arr.sort((a, b) => a - b);
